@@ -1,7 +1,7 @@
 # Scrapy-Playwright
 
 
-## settings.pt file: 
+## settings.py file: 
 
 DOWNLOAD_HANDLERS = {
     "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
